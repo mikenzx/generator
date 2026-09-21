@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import generator from '../components/generator.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <generator />
   </main>
 </template>

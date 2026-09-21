@@ -1,0 +1,522 @@
+{
+  "crossfit_open_workouts": [
+    {
+      "year": 2011,
+      "workouts": [
+        {
+          "name": "11.1",
+          "time_cap": "10 minutes",
+          "type": "AMRAP",
+          "description": "30 double-unders, 15 power snatches (75/55 lb)"
+        },
+        {
+          "name": "11.2",
+          "time_cap": "15 minutes",
+          "type": "AMRAP",
+          "description": "9 deadlifts (155/100 lb), 12 push-ups, 15 box jumps (24/20 in)"
+        },
+        {
+          "name": "11.3",
+          "time_cap": "5 minutes",
+          "type": "AMRAP",
+          "description": "Squat clean and jerk (165/110 lb)"
+        },
+        {
+          "name": "11.4",
+          "time_cap": "10 minutes",
+          "type": "AMRAP",
+          "description": "60 bar-facing burpees, 30 overhead squats (120/90 lb), 10 muscle-ups"
+        },
+        {
+          "name": "11.5",
+          "time_cap": "20 minutes",
+          "type": "AMRAP",
+          "description": "5 power cleans (145/100 lb), 10 toes-to-bar, 15 wall-ball shots (20/14 lb)"
+        },
+        {
+          "name": "11.6",
+          "time_cap": "7 minutes",
+          "type": "AMRAP",
+          "description": "3, 6, 9, 12, 15, 18, 21... thrusters (100/65 lb) and chest-to-bar pull-ups"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "workouts": [
+        {
+          "name": "12.1",
+          "time_cap": "7 minutes",
+          "type": "AMRAP",
+          "description": "Burpees to a target 6 inches above reach"
+        },
+        {
+          "name": "12.2",
+          "time_cap": "10 minutes",
+          "type": "AMRAP",
+          "description": "Proceed through snatch ladder: 30 reps at 75/45 lb, 30 reps at 135/75 lb, 30 reps at 165/100 lb, max reps at 210/120 lb"
+        },
+        {
+          "name": "12.3",
+          "time_cap": "18 minutes",
+          "type": "AMRAP",
+          "description": "15 box jumps (24/20 in), 12 push-presses (115/75 lb), 9 toes-to-bar"
+        },
+        {
+          "name": "12.4",
+          "time_cap": "12 minutes",
+          "type": "AMRAP",
+          "description": "150 wall-ball shots (20/14 lb), 90 double-unders, 30 muscle-ups"
+        },
+        {
+          "name": "12.5",
+          "time_cap": "7 minutes",
+          "type": "AMRAP",
+          "description": "3, 6, 9, 12... thrusters (100/65 lb) and chest-to-bar pull-ups"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "workouts": [
+        {
+          "name": "13.1",
+          "time_cap": "17 minutes",
+          "type": "AMRAP",
+          "description": "40 burpees, 30 snatches (75/45 lb), 30 burpees, 30 snatches (135/75 lb), 20 burpees, 30 snatches (165/100 lb), 10 burpees, max snatches (210/120 lb)"
+        },
+        {
+          "name": "13.2",
+          "time_cap": "10 minutes",
+          "type": "AMRAP",
+          "description": "5 shoulder-to-overhead (115/75 lb), 10 deadlifts (115/75 lb), 15 box jumps (24/20 in)"
+        },
+        {
+          "name": "13.3",
+          "time_cap": "12 minutes",
+          "type": "AMRAP",
+          "description": "150 wall-ball shots (20/14 lb), 90 double-unders, 30 muscle-ups"
+        },
+        {
+          "name": "13.4",
+          "time_cap": "7 minutes",
+          "type": "AMRAP",
+          "description": "3, 6, 9, 12... clean and jerks (135/95 lb) and toes-to-bar"
+        },
+        {
+          "name": "13.5",
+          "time_cap": "4 minutes",
+          "type": "AMRAP",
+          "description": "3 rounds of 15 thrusters (100/65 lb) and 15 chest-to-bar pull-ups. If completed before 4 mins, extended by 4 mins."
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "workouts": [
+        {
+          "name": "14.1",
+          "time_cap": "10 minutes",
+          "type": "AMRAP",
+          "description": "30 double-unders, 15 power snatches (75/55 lb)"
+        },
+        {
+          "name": "14.2",
+          "time_cap": "0.5-interval",
+          "type": "AMRAP",
+          "description": "Every 3 minutes for as long as possible: 2 rounds of 10 overhead squats (95/65 lb) and 10 chest-to-bar pull-ups. Next interval reps increase to 12, then 14..."
+        },
+        {
+          "name": "14.3",
+          "time_cap": "8 minutes",
+          "type": "AMRAP",
+          "description": "10 deadlifts (135/95 lb), 15 box jumps (24/20 in), 15 deadlifts (185/135 lb), 15 box jumps... deadlift weight increases every round"
+        },
+        {
+          "name": "14.4",
+          "time_cap": "14 minutes",
+          "type": "AMRAP",
+          "description": "60-calorie row, 50 toes-to-bar, 40 wall-ball shots (20/14 lb), 30 cleans (135/95 lb), 20 muscle-ups"
+        },
+        {
+          "name": "14.5",
+          "time_cap": "None",
+          "type": "For Time",
+          "description": "21-18-15-12-9-6-3 reps of thrusters (95/65 lb) and bar-facing burpees"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "workouts": [
+        {
+          "name": "15.1",
+          "time_cap": "9 minutes",
+          "type": "AMRAP",
+          "description": "3 rounds of 15 toes-to-bar, 10 deadlifts (115/75 lb), 5 snatches (115/75 lb)"
+        },
+        {
+          "name": "15.1A",
+          "time_cap": "6 minutes",
+          "type": "Max Weight",
+          "description": "1-rep-max clean and jerk"
+        },
+        {
+          "name": "15.2",
+          "time_cap": "0.5-interval",
+          "type": "AMRAP",
+          "description": "Every 3 minutes: 2 rounds of 10 overhead squats (95/65 lb) and 10 chest-to-bar pull-ups. Reps increase by 2 each interval reached."
+        },
+        {
+          "name": "15.3",
+          "time_cap": "14 minutes",
+          "type": "AMRAP",
+          "description": "7 muscle-ups, 50 wall-ball shots (20/14 lb), 100 double-unders"
+        },
+        {
+          "name": "15.4",
+          "time_cap": "8 minutes",
+          "type": "AMRAP",
+          "description": "3, 6, 9, 12... handstand push-ups and 3, 3, 3, 6, 6, 6... cleans (185/125 lb)"
+        },
+        {
+          "name": "15.5",
+          "time_cap": "None",
+          "type": "For Time",
+          "description": "21-18-15-12-9-6-3 reps of thrusters (95/65 lb) and rowing calories"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "workouts": [
+        {
+          "name": "16.1",
+          "time_cap": "20 minutes",
+          "type": "AMRAP",
+          "description": "25-ft overhead walking lunge (95/65 lb), 8 burpees, 25-ft overhead walking lunge, 8 chest-to-bar pull-ups"
+        },
+        {
+          "name": "16.2",
+          "time_cap": "4-minute initial",
+          "type": "AMRAP",
+          "description": "25 toes-to-bar, 50 double-unders, 15 squat cleans (135/85 lb). Earn 4 more mins by finishing under cap, weight increases, reps decrease."
+        },
+        {
+          "name": "16.3",
+          "time_cap": "7 minutes",
+          "type": "AMRAP",
+          "description": "10 power snatches (75/55 lb), 3 bar muscle-ups"
+        },
+        {
+          "name": "16.4",
+          "time_cap": "13 minutes",
+          "type": "AMRAP",
+          "description": "55 deadlifts (225/155 lb), 55 wall-ball shots (20/14 lb), 55-calorie row, 55 handstand push-ups"
+        },
+        {
+          "name": "16.5",
+          "time_cap": "None",
+          "type": "For Time",
+          "description": "21-18-15-12-9-6-3 reps of thrusters (95/65 lb) and bar-facing burpees"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "workouts": [
+        {
+          "name": "17.1",
+          "time_cap": "20 minutes",
+          "type": "For Time",
+          "description": "10 dumbbell snatches (50/35 lb), 15 burpee box jump-overs, 20 DB snatches, 15 burpee box jump-overs... up to 50 DB snatches"
+        },
+        {
+          "name": "17.2",
+          "time_cap": "12 minutes",
+          "type": "AMRAP",
+          "description": "2 rounds of 50-ft DB walking lunge, 16 toes-to-bar, 8 DB power cleans. Then 2 rounds with 16 bar muscle-ups instead of toes-to-bar (50/35 lb DBs)."
+        },
+        {
+          "name": "17.3",
+          "time_cap": "8 minutes initial",
+          "type": "AMRAP",
+          "description": "3 rounds of 6 chest-to-bar pull-ups and 6 squat snatches (95/65 lb). Time bonuses awarded for completion as weight increases."
+        },
+        {
+          "name": "17.4",
+          "time_cap": "13 minutes",
+          "type": "AMRAP",
+          "description": "55 deadlifts (225/155 lb), 55 wall-ball shots (20/14 lb), 55-calorie row, 55 handstand push-ups"
+        },
+        {
+          "name": "17.5",
+          "time_cap": "40 minutes",
+          "type": "For Time",
+          "description": "10 rounds of 9 thrusters (95/65 lb) and 35 double-unders"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "workouts": [
+        {
+          "name": "18.1",
+          "time_cap": "20 minutes",
+          "type": "AMRAP",
+          "description": "8 toes-to-bar, 10 dumbbell hang clean and jerks (50/35 lb), 14-calorie row"
+        },
+        {
+          "name": "18.2",
+          "time_cap": "12 minutes (combined)",
+          "type": "For Time",
+          "description": "1-2-3-4-5-6-7-8-9-10 reps of DB squats (50/35 lb) and bar-facing burpees"
+        },
+        {
+          "name": "18.2A",
+          "time_cap": "Remaining time",
+          "type": "Max Weight",
+          "description": "1-rep-max clean"
+        },
+        {
+          "name": "18.3",
+          "time_cap": "14 minutes",
+          "type": "For Time",
+          "description": "2 rounds of 100 double-unders, 20 overhead squats (115/80 lb), 100 double-unders, 12 ring muscle-ups, 100 DUs, 20 DB snatches, 100 DUs, 12 bar muscle-ups"
+        },
+        {
+          "name": "18.4",
+          "time_cap": "9 minutes",
+          "type": "For Time",
+          "description": "21-15-9 deadlifts (225/155 lb) and handstand push-ups, then 21-15-9 deadlifts (315/205 lb) and 50-ft handstand walk"
+        },
+        {
+          "name": "18.5",
+          "time_cap": "7 minutes",
+          "type": "AMRAP",
+          "description": "3, 6, 9, 12... thrusters (100/65 lb) and chest-to-bar pull-ups"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "workouts": [
+        {
+          "name": "19.1",
+          "time_cap": "15 minutes",
+          "type": "AMRAP",
+          "description": "19 wall-ball shots (20/14 lb), 19-calorie row"
+        },
+        {
+          "name": "19.2",
+          "time_cap": "8 minutes initial",
+          "type": "AMRAP",
+          "description": "2 rounds of 25 toes-to-bar, 50 double-unders, 15 squat cleans (135/85 lb). Time extensions and weight updates apply."
+        },
+        {
+          "name": "19.3",
+          "time_cap": "10 minutes",
+          "type": "For Time",
+          "description": "200-ft DB overhead lunge, 50 DB box step-ups, 50 strict handstand push-ups, 200-ft handstand walk (50/35 lb DB)"
+        },
+        {
+          "name": "19.4",
+          "time_cap": "12 minutes",
+          "type": "For Time",
+          "description": "3 rounds of 10 snatches (95/65 lb) and 12 bar-facing burpees. Rest 3 mins. Then 3 rounds of 10 bar muscle-ups and 12 bar-facing burpees."
+        },
+        {
+          "name": "19.5",
+          "time_cap": "20 minutes",
+          "type": "For Time",
+          "description": "33-27-21-15-9 reps of thrusters (105/75 lb) and chest-to-bar pull-ups"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "workouts": [
+        {
+          "name": "20.1",
+          "time_cap": "15 minutes",
+          "type": "For Time",
+          "description": "10 rounds of 8 ground-to-overhead (95/65 lb) and 10 bar-facing burpees"
+        },
+        {
+          "name": "20.2",
+          "time_cap": "20 minutes",
+          "type": "AMRAP",
+          "description": "4 dumbbell thrusters (50/35 lb), 6 toes-to-bar, 24 double-unders"
+        },
+        {
+          "name": "20.3",
+          "time_cap": "9 minutes",
+          "type": "For Time",
+          "description": "21-15-9 deadlifts (225/155 lb) and handstand push-ups, then 21-15-9 deadlifts (315/205 lb) and 50-ft handstand walk"
+        },
+        {
+          "name": "20.4",
+          "time_cap": "20 minutes",
+          "type": "For Time",
+          "description": "30 box jumps, 15 clean and jerks (95/65 lb), 30 box jumps, 15 clean and jerks (135/85 lb), 30 box jumps, 10 clean and jerks (185/115 lb)... up to 315/205 lb"
+        },
+        {
+          "name": "20.5",
+          "time_cap": "20 minutes",
+          "type": "For Time",
+          "description": "Partitioned as desired: 40 ring muscle-ups, 80-calorie row, 120 wall-ball shots (20/14 lb)"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "workouts": [
+        {
+          "name": "21.1",
+          "time_cap": "15 minutes",
+          "type": "For Time",
+          "description": "1-3-6-9-15-21 reps of wall walks and 10-30-60-90-150-210 double-unders"
+        },
+        {
+          "name": "21.2",
+          "time_cap": "20 minutes",
+          "type": "For Time",
+          "description": "10 DB snatches, 15 burpee box jump-overs, 20 DB snatches, 15 burpee box jump-overs... up to 50 DB snatches (50/35 lb DB)"
+        },
+        {
+          "name": "21.3",
+          "time_cap": "15 minutes",
+          "type": "For Time",
+          "description": "15 front squats, 30 toes-to-bar, 15 thrusters, rest 1 min, 15 front squats, 30 chest-to-bar pull-ups, 15 thrusters, rest 1 min, 15 front squats, 30 bar muscle-ups, 15 thrusters (95/65 lb)"
+        },
+        {
+          "name": "21.4",
+          "time_cap": "7 minutes (after 21.3)",
+          "type": "Max Weight",
+          "description": "Completing a complex of: 1 deadlift, 1 clean, 1 hang clean, 1 jerk"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "workouts": [
+        {
+          "name": "22.1",
+          "time_cap": "15 minutes",
+          "type": "AMRAP",
+          "description": "3 wall walks, 12 dumbbell snatches (50/35 lb), 15 box jump-overs"
+        },
+        {
+          "name": "22.2",
+          "time_cap": "10 minutes",
+          "type": "For Time",
+          "description": "1-2-3-4-5-6-7-8-9-10-9-8-7-6-5-4-3-2-1 reps of deadlifts (225/155 lb) and bar-facing burpees"
+        },
+        {
+          "name": "22.3",
+          "time_cap": "12 minutes",
+          "type": "For Time",
+          "description": "21 pull-ups, 42 double-unders, 21 thrusters (95/65 lb); 18 chest-to-bar, 36 double-unders, 18 thrusters (115/75 lb); 15 bar muscle-ups, 30 double-unders, 15 thrusters (135/85 lb)"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "workouts": [
+        {
+          "name": "23.1",
+          "time_cap": "14 minutes",
+          "type": "AMRAP",
+          "description": "60-calorie row, 50 toes-to-bar, 40 wall-ball shots (20/14 lb), 30 cleans (135/95 lb), 20 ring muscle-ups"
+        },
+        {
+          "name": "23.2A",
+          "time_cap": "15 minutes",
+          "type": "AMRAP",
+          "description": "5 burpee pull-ups, 10 shuttle runs (50 ft). Add 5 burpee pull-ups every round."
+        },
+        {
+          "name": "23.2B",
+          "time_cap": "5 minutes (after 23.2A)",
+          "type": "Max Weight",
+          "description": "1-rep-max thruster from the floor"
+        },
+        {
+          "name": "23.3",
+          "time_cap": "6 minutes initial",
+          "type": "AMRAP",
+          "description": "5 wall walks, 50 double-unders, 15 snatches (95/65 lb)... window extends if completed under cap as weights rise and wall walks decrease."
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "workouts": [
+        {
+          "name": "24.1",
+          "time_cap": "15 minutes",
+          "type": "For Time",
+          "description": "21 dumbbell snatches (arm 1), 21 lateral burpees over DB, 21 dumbbell snatches (arm 2), 21 lateral burpees over DB. Then 15-15-15-15, then 9-9-9-9 (50/35 lb DB)."
+        },
+        {
+          "name": "24.2",
+          "time_cap": "20 minutes",
+          "type": "AMRAP",
+          "description": "300-meter row, 10 deadlifts (185/125 lb), 50 double-unders"
+        },
+        {
+          "name": "24.3",
+          "time_cap": "15 minutes",
+          "type": "For Time",
+          "description": "5 rounds of 10 thrusters (95/65 lb) and 10 chest-to-bar pull-ups. Rest 1 min. 5 rounds of 7 thrusters (135/95 lb) and 7 bar muscle-ups."
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "workouts": [
+        {
+          "name": "25.1",
+          "time_cap": "15 minutes",
+          "type": "AMRAP",
+          "description": "As many rounds and reps as possible in 15 minutes of: 3 lateral burpees over the dumbbell, 3 dumbbell hang clean-to-overheads, 30-foot walking lunge (2 x 15 feet). *After completing each round, add 3 reps to the burpees and hang clean-to-overheads. ♀ 35-lb (15-kg) dumbbell, ♂ 50-lb (22.5-kg) dumbbell"
+        },
+        {
+          "name": "25.2",
+          "time_cap": "12 minutes",
+          "type": "For Time",
+          "description": "For time: 21 pull-ups, 42 double-unders, 21 thrusters (weight 1), 18 chest-to-bar pull-ups, 36 double-unders, 18 thrusters (weight 2), 15 bar muscle-ups, 30 double-unders, 15 thrusters (weight 3). ♀ 65, 75, 85 lb (29, 34, 38 kg), ♂ 95, 115, 135 lb (43, 52, 61 kg)"
+        },
+        {
+          "name": "25.3",
+          "time_cap": "20 minutes",
+          "type": "For Time",
+          "description": "For time: 5 wall walks, 50-calorie row, 5 wall walks, 25 deadlifts, 5 wall walks, 25 cleans, 5 wall walks, 25 snatches, 5 wall walks, 50-calorie row. ♀ 155-lb (70-kg) deadlift, 85-lb (38-kg) clean, 65-lb (29-kg) snatch, ♂ 225-lb (102-kg) deadlift, 135-lb (61-kg) clean, 95-lb (43-kg) snatch"
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "workouts": [
+        {
+          "name": "26.1",
+          "time_cap": "10 minutes",
+          "type": "AMRAP",
+          "description": "Details for recent 2026 season workout 1"
+        },
+        {
+          "name": "26.2",
+          "time_cap": "12 minutes",
+          "type": "For Time",
+          "description": "Details for recent 2026 season workout 2"
+        },
+        {
+          "name": "26.3",
+          "time_cap": "15 minutes",
+          "type": "AMRAP",
+          "description": "Details for recent 2026 season workout 3"
+        }
+      ]
+    }
+  ]
+}
